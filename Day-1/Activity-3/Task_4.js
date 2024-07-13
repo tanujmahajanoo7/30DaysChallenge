@@ -8,8 +8,8 @@ var obj = {
 }
 var arr=[1,2,3,4,5];
 
-console.log(Number);
-console.log(String);
-console.log(boolean);
-console.log(obj);
-console.log(arr);
+console.log(typeof(Number));
+console.log(typeof(String));
+console.log(typeof(boolean));
+console.log(typeof(obj));
+console.log(typeof(arr));
